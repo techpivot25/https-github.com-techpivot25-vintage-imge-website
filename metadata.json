@@ -1,0 +1,8 @@
+{
+  "name": "AI Image Creation website",
+  "description": "Transform your modern photos into cinematic 80s-inspired vintage masterpieces with a single click using Gemini's powerful image editing capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
